@@ -1,0 +1,10 @@
+.internal{
+    font-family: cursive;
+    font-size: 2em;
+    text-shadow:1px 1px;
+    color:hsl(240, 100%, 50%);
+    margin: 10px;
+    text-align: center;
+    background-color: hsl(33, 100%, 88%);
+    border-radius: 10px;
+}
